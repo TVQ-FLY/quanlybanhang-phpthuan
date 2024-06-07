@@ -1,3 +1,5 @@
 DB Name: qlbanhang
+utf8mb4_general_ci
+
 link: http://localhost/qlibanhangonline
 (application -> config -> config(25))
