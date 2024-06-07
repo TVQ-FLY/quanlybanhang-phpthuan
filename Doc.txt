@@ -1,0 +1,3 @@
+DB Name: qlbanhang
+link: http://localhost/qlibanhangonline
+(application -> config -> config(25))
